@@ -101,6 +101,7 @@ You could join our slack team in case you need any help or have any questions. [
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
 ### [ Additional material ](additional-material/additional-material.md)
+### You can also refer Github cheat sheet: https://www.google.co.in/url?sa=t&source=web&rct=j&url=https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf&ved=2ahUKEwjApYjNnsfZAhXMsI8KHS9XBp0QFjAAegQIBxAB&usg=AOvVaw3RoN21aynhcDHqKncV31el
 
 
 ## Tutorials Using Other Tools
